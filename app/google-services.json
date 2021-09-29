@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047802710305",
+    "project_id": "geet-51e28",
+    "storage_bucket": "geet-51e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047802710305:android:a1e084ef7e69a4cafa5660",
+        "android_client_info": {
+          "package_name": "com.akash.geet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047802710305-rlk43cun3jnfp76oun9lio3m7v33pndt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjoS5DUtboyBYjWXmefUelExnDDQHqPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047802710305-rlk43cun3jnfp76oun9lio3m7v33pndt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
